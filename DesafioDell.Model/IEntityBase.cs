@@ -9,5 +9,6 @@ namespace DesafioDell.Model
     {
         int Id { get; set; }
         string Email { get; set; }
+
     }
 }
