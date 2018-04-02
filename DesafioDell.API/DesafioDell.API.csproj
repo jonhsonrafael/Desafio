@@ -52,4 +52,8 @@
     <ProjectReference Include="..\DesafioDell.Model\DesafioDell.Model.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
